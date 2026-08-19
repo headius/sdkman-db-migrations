@@ -15,7 +15,8 @@ class JRubyMigrations {
     Candidate(
       candidate = "jruby",
       name = "JRuby",
-      description = "JRuby: Ruby for the JVM.",
+      description = "JRuby is a 100% Java implementation of the Ruby programming language. It is Ruby for the JVM.
+",
       websiteUrl = "https://jruby.org/",
       distribution = "UNIVERSAL"
     ).insert()
